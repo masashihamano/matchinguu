@@ -24,7 +24,7 @@ gem 'pry-stack_explorer'
 gem 'devise'
 
 # bootstrapの機能追加
-gem 'bootstrap'
+gem 'bootstrap', '~> 4.1.3'
 gem 'jquery-rails'
 
 #フォント追加
