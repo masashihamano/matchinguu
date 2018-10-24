@@ -20,6 +20,9 @@ gem 'pry-byebug'
 # frame [数字]でコンテキスト移動できる
 gem 'pry-stack_explorer'
 
+# 会員登録機能を簡単に作成
+gem 'devise'
+
 
 
 
