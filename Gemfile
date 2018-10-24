@@ -23,6 +23,14 @@ gem 'pry-stack_explorer'
 # 会員登録機能を簡単に作成
 gem 'devise'
 
+# bootstrapの機能追加
+gem 'bootstrap'
+gem 'jquery-rails'
+
+#フォント追加
+gem "font-awesome-sass"
+
+
 
 
 
