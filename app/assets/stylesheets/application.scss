@@ -1,9 +1,15 @@
+/* Library */
 @import "bootstrap";
-
 @import "font-awesome-sprockets";
 @import "font-awesome";
 
+// layout共通
+@import "common";
+
+/* pages */
 @import "top";
+@import "users/sign_up";
+@import "users/sign_in";
 
 
 /*

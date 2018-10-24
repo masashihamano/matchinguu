@@ -30,7 +30,11 @@ gem 'jquery-rails'
 #フォント追加
 gem "font-awesome-sass"
 
+# imageファイルをアップロード
+gem 'carrierwave', '~> 1.0'
 
+# 画像の処理（サイズ変更など）
+gem 'mini_magick'
 
 
 
